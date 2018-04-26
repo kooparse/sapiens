@@ -1,0 +1,9 @@
+[package]
+name = "0d8x"
+version = "0.1.0"
+authors = []
+
+[dependencies]
+clippy = { version = "*", optional = true }
+amethyst = "0.6"
+genmesh = "0.5"
